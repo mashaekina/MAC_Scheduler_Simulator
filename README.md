@@ -1,4 +1,4 @@
-# Telecom MAC Scheduler Simulator
+# MAC Scheduler Simulator
 
 A multithreaded downlink MAC scheduler simulator for 5G NR, implemented in C++17.
 Covers the L1/L2 boundary: AWGN channel model, CQI→MCS mapping, HARQ retransmission,
