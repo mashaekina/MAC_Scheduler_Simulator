@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/simulator.dir/main.cpp.o -o simulator  libtelecom_scheduler.a 

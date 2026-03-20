@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtelecom_scheduler.a CMakeFiles/telecom_scheduler.dir/scheduler.cpp.o CMakeFiles/telecom_scheduler.dir/round_robin_scheduler.cpp.o CMakeFiles/telecom_scheduler.dir/proportional_fair_scheduler.cpp.o CMakeFiles/telecom_scheduler.dir/resource_block.cpp.o CMakeFiles/telecom_scheduler.dir/channel_model.cpp.o CMakeFiles/telecom_scheduler.dir/ue.cpp.o CMakeFiles/telecom_scheduler.dir/harq.cpp.o
+/usr/bin/ranlib libtelecom_scheduler.a

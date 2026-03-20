@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/maria/Desktop/project_telecom/build/tests/scheduler_tests[1]_tests.cmake")
+  include("/mnt/c/Users/maria/Desktop/project_telecom/build/tests/scheduler_tests[1]_tests.cmake")
+else()
+  add_test(scheduler_tests_NOT_BUILT scheduler_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,16 @@
+RoundRobinScheduler.AllocatesAtLeastOne 1 0.0262274
+RoundRobinScheduler.NeverExceedsAvailableRbs 1 0.0220065
+RoundRobinScheduler.RotatesAcrossTtis 1 0.0228845
+RoundRobinScheduler.SkipsUesWithNoData 1 0.0206133
+RoundRobinScheduler.EmptyQueueReturnsEmpty 1 0.0222698
+RoundRobinScheduler.ZeroRbsReturnsEmpty 1 0.0215634
+ProportionalFairScheduler.AllocatesAtLeastOne 1 0.0240528
+ProportionalFairScheduler.PrefersHighCqiUeInitially 1 0.0213399
+ProportionalFairScheduler.EvolvesAverageThroughput 1 0.0223689
+ProportionalFairScheduler.EmptyQueueReturnsEmpty 1 0.0220067
+ChannelModel.SnrToCqiMonotone 1 0.0210402
+ChannelModel.SnrToCqiRange 1 0.021547
+ChannelModel.CqiToMcsRange 1 0.01916
+HarqManager.AllowsUpToMaxRetransmissions 1 0.0183096
+HarqManager.ResetClearsState 1 0.0199402
+---
